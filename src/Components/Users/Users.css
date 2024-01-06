@@ -1,0 +1,19 @@
+.submit-form {
+  margin-top: 10%;
+}
+.form-group {
+  width: 15%;
+  margin-left: 45%;
+}
+.form-control {
+  border-color: rgba(22, 16, 16, 0.699);
+}
+.buttonSubmit {
+  margin-left: 5%;
+}
+.titleLabel {
+  margin-right: 90%;
+}
+.descriptionLabel {
+  margin-right: 90%;
+}
